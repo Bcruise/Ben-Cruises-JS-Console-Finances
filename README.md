@@ -1,7 +1,5 @@
 # Console-Finances
 
-
-
 ## Description
 
 The aim of this page is to - write JavaScript code that analyzes the records to calculate each of the following:
@@ -17,6 +15,10 @@ The aim of this page is to - write JavaScript code that analyzes the records to 
 * The greatest increase in profits (date and amount) over the entire period.
 
 * The greatest decrease in profits (date and amount) over the entire period.
+
+## Installation
+
+Clone the code into your terminal from the repository.
 
 ## Screenshot
 
