@@ -21,8 +21,6 @@ The aim of this page is to - write JavaScript code that analyzes the records to 
 Clone the code into your terminal from the repository.
 
 ## Screenshot
-
-<!-- wrong -->
 ![alt text](https://github.com/Bcruise/Console-Finances/blob/main/images/Console.png)
 
 ## Link
