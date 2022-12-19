@@ -95,6 +95,7 @@ for (var i = 0; i < finances.length; i++) {
     netTotalAmount += finances[i][1];
 }
 
+
 var averageChangesTotal = 0;
 var averageChanges = 0;
 var averageChangesDec = 0;
@@ -107,6 +108,7 @@ for (var i = 0; i < finances.length; i++) {
     averageChangesDec = averageChanges.toFixed(2);
     }
 }
+
 
 var currentHighestProfit = 0;
 var greatestProfitIncreaseMonth = "";
